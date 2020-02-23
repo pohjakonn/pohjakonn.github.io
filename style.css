@@ -1,0 +1,13 @@
+.gallery-image img {
+    width: 100%;
+}
+header .header-banner {
+
+background-image: url("img/header.png");
+width: 100%;
+height: calc(100vh - 500px);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
