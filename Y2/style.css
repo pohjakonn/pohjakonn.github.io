@@ -25,3 +25,34 @@ color: #ffffff;
 text-transform: uppercase;
 
 }
+
+footer {
+
+width: calc(100% - 80px);
+padding: 40px 40px;
+background-color: #172029;
+margin-top: 20px;
+
+}
+.footer-sm {
+
+width: 32px;
+float: right;
+
+}
+
+.footer-sm img {
+
+width: 100%;
+margin-bottom: 10px;
+
+}
+
+.meist {
+font-family: "Open Sans", sans-serif;
+font-weight: 300;
+font-size: 15px;
+letter-spacing: 5px;
+color: #ffffff;
+text-transform: uppercase;
+}
