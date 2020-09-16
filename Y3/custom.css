@@ -1,0 +1,107 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;   
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+
+
+footer {
+    margin-top: 0px;
+    padding: 5em;
+}
+
+.jumbotron{
+    background-image: url(https://shahnazbeauty.ca/wp-content/uploads/2017/04/cropped-bg_pic4b-1-4.jpg) ;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
+}
+
+.Meist{
+    align-content: center;
+}
+.Meist-section {
+    padding: 90px 0;
+    align-content: center;
+}
+.Meist-H2 {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 0 0 39px;
+    padding: 0 0 11px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+.Meist-text {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+.Meist-pilt img{
+    width: 300px;
+    
+}
+
+.Kiitus p {
+    color: #606060;
+    font-size: 13px;
+    line-height: 22px;
+    margin: 0 0 35px;
+}
+
+.Kiitus H2 {
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin: 0 0 39px;
+    padding: 0 0 11px;
+    position: relative;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.carousel-inner{
+    height: 400px;
+
+}
+
+.carousel-item img, .carousel-inner>.item>a>img {
+        display: block;
+        height: auto;
+        line-height: 1;
+        margin:auto;
+        overflow: hidden;
+    width: 100%
+        }
