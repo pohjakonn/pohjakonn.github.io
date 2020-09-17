@@ -97,7 +97,7 @@ footer {
 
 }
 
-.carousel-item img, .carousel-inner>.item>a>img {
+.carousel-item img {
         display: block;
         height: auto;
         line-height: 1;
