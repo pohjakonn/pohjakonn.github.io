@@ -155,7 +155,7 @@ function GetMap() {
     map.entities.push(pushpin2);
     map.entities.push(pushpin);
     
-    /*Microsoft.Maps.Events.addHandler(pushpin, 'click', function (e) {
+    Microsoft.Maps.Events.addHandler(pushpin, 'click', function (e) {
     infobox.setOptions({description: e.target.metadata.title,
                         visible:true
     });  
@@ -164,7 +164,7 @@ function GetMap() {
     infobox.setOptions({description: e.target.metadata.title,
                         visible:true
     });  
-    });*/
+    });
      infobox.setMap(map);
 
 }
