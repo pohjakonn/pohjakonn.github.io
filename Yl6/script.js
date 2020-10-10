@@ -168,19 +168,6 @@ function GetMap() {
      infobox.setMap(map);
 
 }
- function pushpinClicked(e) {
-        //Make sure the infobox has metadata to display.
-        //if (e.target.metadata) {
-            //Set the infobox options with the metadata of the pushpin.
-            /*infobox.setOptions({
-                location: e.target.getLocation(),
-                title: e.target.title,
-                //description: e.target.metadata.description,
-                visible: true
-            }); */
-        //}
-    
-    }
 
 // https://dev.virtualearth.net/REST/v1/Locations?q=1000 Vin Scully Ave, Los Angeles,CA&key=YOUR_KEY_HERE
 
